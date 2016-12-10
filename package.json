@@ -1,0 +1,19 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "This bot is so dumb now",
+  "main": "TweetBot.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node TweetBot.js"
+  },
+  "keywords": [
+    "tweetBot"
+  ],
+  "author": "Anand",
+  "license": "ISC"
+}
