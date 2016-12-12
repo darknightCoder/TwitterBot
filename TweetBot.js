@@ -1,4 +1,4 @@
-var Twit = require('twit');
+var Twit = require('twit'); 
 var Config = require('./config');
 //var cofig = new Cofig();
 console.log('hi')
